@@ -1,4 +1,4 @@
-title: Git for Everyone
+title: welcome friends
 subtitle : hello how are you
 
 
